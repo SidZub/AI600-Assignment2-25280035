@@ -1,7 +1,6 @@
 # AI600 Deep Learning — PA2: Quick, Draw! Challenge
 
 **Lahore University of Management Sciences**
-School of Science and Engineering — Department of Electrical Engineering
 Spring 2026
 
 ---
